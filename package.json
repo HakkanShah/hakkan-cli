@@ -1,0 +1,20 @@
+{
+    "name": "hakkan",
+    "version": "1.0.0",
+    "description": "My personal CLI portfolio",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "hakkan": "./index.js"
+    },
+    "keywords": [
+        "cli",
+        "portfolio",
+        "demo"
+    ],
+    "author": "Hakkan",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.3.0"
+    }
+}
