@@ -8,7 +8,7 @@
 ## Quick Start
 
 You don't need to install anything! Just run:
-
+ 
 ```bash
 npx hakkan
 ```
