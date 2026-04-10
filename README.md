@@ -49,7 +49,3 @@ hakkan
 - Website: [hakkan.is-a.dev](https://hakkan.is-a.dev)
 - GitHub: [@HakkanShah](https://github.com/HakkanShah)
 - LinkedIn: [@hakkan](https://www.linkedin.com/in/hakkan)
-
-## License
-
-ISC
