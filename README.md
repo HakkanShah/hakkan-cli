@@ -1,4 +1,4 @@
-# npx hakkan 🚀
+# npx hakkan 🚀 
 
 > My personal developer portfolio, right in your terminal.
 
