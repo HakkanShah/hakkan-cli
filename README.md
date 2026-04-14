@@ -5,7 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/hakkan.svg?style=flat-square)](https://www.npmjs.com/package/hakkan)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg?style=flat-square)](https://opensource.org/licenses/ISC)
 
-## Quick Start
+## Quick Start 
 
 You don't need to install anything! Just run:
  
